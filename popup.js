@@ -146,7 +146,7 @@ function handleSubmit( e ) {
   $('#submit').prop('disabled', true);
 
   // Google Forms constants
-  const GOOGLE_FORMS_URL = 'https://docs.google.com/forms/d/1udxf9C7XeO7rm-SoucjDIv0c8XzGb7VVutsCI8r4s-Y/formResponse';
+  const GOOGLE_FORMS_URL = 'https://docs.google.com/forms/d/1OxCh2h65wFhdl-tcOcjEvuC3ED48fx0uQBs4yOdLvl0/formResponse';
   const NAME_FIELD = 'entry.1227505863';
   const EMAIL_FIELD = 'entry.1975141568';
   const EVENTNAME_FIELD = 'entry.1518336548';
